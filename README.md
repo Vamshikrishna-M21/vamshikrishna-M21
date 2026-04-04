@@ -1,6 +1,8 @@
-<img width="468" height="111" alt="image" src="https://github.com/user-attachments/assets/a11716b3-c20d-483b-b723-bdcd0e80071d" /># Vamshi Krishna Manjakuppam
+# Vamshi Krishna Manjakuppam
 
-Master’s student in Data Science at the University of Iowa with prior experience as a Data Engineer at Infosys. I work at the intersection of data engineering, analytics, and machine learning, focusing on building reliable data systems and extracting insights from complex datasets.
+Master’s student in Data Science at the University of Iowa with prior experience as a Data Engineer at Infosys.  
+
+I work at the intersection of data engineering, analytics, and machine learning, focusing on building reliable data systems and extracting insights from complex datasets.
 
 
 
