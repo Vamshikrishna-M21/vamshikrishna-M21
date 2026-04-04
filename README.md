@@ -87,7 +87,6 @@ My work centers around building data pipelines, analyzing large-scale datasets, 
 - Strengthening SQL and data structures for technical interviews  
 - Preparing for data science and data engineering roles
 
----
 
 ## Contact
 
