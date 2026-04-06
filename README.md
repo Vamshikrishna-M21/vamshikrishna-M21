@@ -19,26 +19,39 @@ My work centers around building data pipelines, analyzing large-scale datasets, 
 
 ## Projects
 
-**Data Analytics Pipeline (CIVCO Client)**  
+### Data Analytics Pipeline (CIVCO Client)
 - Designed and implemented an automated data pipeline to process raw sales data and generate dynamic reports across product, customer, and regional dimensions  
 - Built a one-command workflow to ingest new datasets, remove duplicates, and regenerate structured outputs, eliminating manual Excel-based processing  
 - Developed interactive Power BI dashboards integrated with the pipeline, enabling real-time and customizable analysis  
 - Reduced manual reporting effort by 80–90% and applied price elasticity modeling to quantify the impact of discount strategies on sales and profitability  
 
-**Text Analytics (Climbing Wall Feedback Analysis)**  
+
+### Text Analytics (Climbing Wall Feedback Analysis)
 - Built an end-to-end text analytics pipeline in Python to process 300+ survey responses, including data cleaning, stopword removal, and feature extraction  
 - Performed word frequency and bigram analysis to identify key user concerns such as facility crowding and route design  
 - Applied sentiment analysis and topic modeling (LDA) to uncover patterns in user experience and user behavior  
 - Delivered data-driven recommendations, including survey redesign and facility improvements, to support decision-making  
 
-**Causal Inference (NHANES Dataset)**  
+
+### Causal Inference (NHANES Dataset)
 - Constructed a large analytical dataset by merging and preprocessing NHANES data  
 - Applied propensity score matching and weighting techniques to estimate treatment effects  
 - Explored heterogeneous effects using causal machine learning methods  
 
-**Work in Progress**  
-- Customer Churn Prediction (Machine Learning)  
-- A/B Testing for Product Decisions  
+
+### Customer Retention Decision System
+- Built an end-to-end churn prediction system using scikit-learn, comparing Logistic Regression, Random Forest, and HistGradientBoosting models based on PR-AUC, recall, and interpretability  
+- Developed a reproducible ML pipeline covering data cleaning, preprocessing, threshold evaluation, and artifact generation, including handling missing values and stratified train/validation/test splits  
+- Designed business-facing decision logic by separating model prediction threshold (0.60) from intervention targeting threshold (0.30), enabling evaluation of retention trade-offs and expected ROI  
+- Delivered a Streamlit dashboard for interactive analysis and stakeholder-driven decision support  
+
+
+### Promotion Incrementality & Uplift System
+- Built an end-to-end uplift modeling system using the randomized Criteo Uplift dataset to estimate treatment effects and rank users by incremental impact rather than raw conversion probability  
+- Modeled heterogeneous treatment effects and evaluated uplift models using AUUC, Qini curves, and uplift-based ranking strategies  
+- Designed ROI-aware targeting policies under budget constraints, comparing uplift-based targeting with naive baselines (random, treat-all, treat-none, response-based)  
+- Implemented inverse-propensity weighted offline policy evaluation to simulate real-world intervention strategies and quantify business impact  
+
 
 
 
