@@ -90,7 +90,7 @@ My work centers around building data pipelines, analyzing large-scale datasets, 
 
 **Business Analyst Intern — Vineet Laboratories Ltd**  
 - Analyzed manufacturing and batch-level data using SQL and Python, identifying trends and improving data-driven decision-making    
-- Designed and automated Power BI dashboards, reducing manual reporting effort by 36 hours/week and improving reporting efficiency    
+- Designed and automated Power BI dashboards, reducing manual reporting effort by 19 hours/week and improving reporting efficiency    
 
 
 ## Current Focus
